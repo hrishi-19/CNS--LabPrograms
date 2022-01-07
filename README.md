@@ -1,1 +1,1 @@
-# CNS--LabPrograms
+# CNS-LabPrograms
